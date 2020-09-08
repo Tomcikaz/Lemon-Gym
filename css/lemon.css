@@ -1,0 +1,56 @@
+
+
+  html {
+  font-family:  'uni-sans', "helvetica";
+  font-size: 16px;
+
+  }
+
+  header {
+  background-color: #ffed00;
+  padding: 10px 120px;
+  }
+  a {
+  text-decoration: none;
+  }
+  a:link, a:visited  {
+    color: inherit;
+  }
+
+  nav {
+    word-spacing: .8em;
+  font-weight: bold;
+  }
+  #mano-lemon {
+    float: right;
+    color: white;
+    background-color: black;
+    padding: 3px 5px;
+    border-radius: 8px 0;
+    font-weight: bold;
+  }
+  main {
+  text-align: center;
+
+  }
+
+    .inputas {
+    display: inline-block;
+      border: black solid 2px;
+    margin: 20px;
+    }
+    select {
+    padding: 15px 40px;
+    }
+
+.priceplan {
+  border: solid grey 1px;
+display: block;
+
+}
+
+ol, ul {
+  list-style-type: none;
+
+
+  }
